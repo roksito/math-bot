@@ -168,4 +168,34 @@ elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q4.Text == "121 
 game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a4.Text = "11"
 elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q5.Text == "121 / 11 =" then
 game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a5.Text = "11"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q1.Text == "4(0.5 * 0.5) =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a1.Text = "1"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q2.Text == "4(0.5 * 0.5) =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a2.Text = "1"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q3.Text == "4(0.5 * 0.5) =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a3.Text = "1"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q4.Text == "4(0.5 * 0.5) =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a4.Text = "1"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q5.Text == "4(0.5 * 0.5) =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a5.Text = "1"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q1.Text == "9 ^ 2" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a1.Text = "81"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q2.Text == "9 ^ 2" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a2.Text = "81"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q3.Text == "9 ^ 2" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a3.Text = "81"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q4.Text == "9 ^ 2" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a4.Text = "81"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q5.Text == "9 ^ 2" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a5.Text = "81"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q1.Text == "4 / 0.5 =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a1.Text = "8"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q2.Text == "4 / 0.5 =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a2.Text = "8"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q3.Text == "4 / 0.5 =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a3.Text = "8"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q4.Text == "4 / 0.5 =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a4.Text = "8"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q5.Text == "4 / 0.5 =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a5.Text = "8"
 end
