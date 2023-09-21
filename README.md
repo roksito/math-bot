@@ -1,4 +1,4 @@
--- uwu give me a cum>_<
+
 if game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q1.Text == "12 / 2 =" then
 game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a1.Text = "6"
 elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q2.Text == "12 / 2 =" then
@@ -45,15 +45,15 @@ game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a5.Text = "12"
 elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q2.Text == "(1 + 2) ^ 3 =" then
 game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a2.Text = "27"
 elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q2.Text == "(4x + 8) = 20, x =" then
-game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a2.Text = "1_2"
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a2.Text = "3"
 elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q1.Text == "(4x + 8) = 20, x =" then
-game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a1.Text = "1_2"
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a1.Text = "3"
 elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q3.Text == "(4x + 8) = 20, x =" then
-game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a3.Text = "1_2"
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a3.Text = "3"
 elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q4.Text == "(4x + 8) = 20, x =" then
-game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a4.Text = "1_2"
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a4.Text = "3"
 elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q5.Text == "(4x + 8) = 20, x =" then
-game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a5.Text = "1_2"
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a5.Text = "3"
 
 elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q4.Text == "1 * 32 =" then
 game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a4.Text = "32"
@@ -198,6 +198,26 @@ elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q4.Text == "((1 
 game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a4.Text = "16"
 elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q5.Text == "((1 / 2)8) ^ 2 =" then
 game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a5.Text = "16"
-elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q1.Text == "((1 / 2)8) ^ 2 =" then
-game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a5.Text = "16"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q1.Text == "22 + 14 =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a1.Text = "36"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q2.Text == "22 + 14 =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a2.Text = "36"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q3.Text == "22 + 14 =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a3.Text = "36"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q4.Text == "22 + 14 =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a4.Text = "36"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q5.Text == "22 + 14 =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a5.Text = "36"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q1.Text == "8 * 9 =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a1.Text = "72"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q2.Text == "8 * 9 =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a2.Text = "72"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q3.Text == "8 * 9 =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a3.Text = "72"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q4.Text == "8 * 9 =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a4.Text = "72"
+elseif game:GetService("Players").LocalPlayer.PlayerGui.TestGui.q5.Text == "8 * 9 =" then
+game:GetService("Players").LocalPlayer.PlayerGui.TestGui.a5.Text = "72"
+
+
 end
